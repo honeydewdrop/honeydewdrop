@@ -5,7 +5,8 @@
   work, but I really like anything full-stack.
 
                                        
-                                   ![pc](https://github.com/user-attachments/assets/a9632aa5-f638-444e-a55d-6c89c0d78c7f)
+  ![pc](https://github.com/user-attachments/assets/73a0d9dd-2b00-4e7d-867b-47ffc98f0212)
+
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,cs,react,vite,nodejs,django,npm,postman,matlab,mongodb,git,unity,figma)](https://skillicons.dev)
 
