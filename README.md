@@ -4,7 +4,8 @@
   I'm a junior computer science student. I enjoy different types of CS
   work, but I really like anything full-stack.
 
-                                       
+  <img src="(https://github.com/user-attachments/assets/73a0d9dd-2b00-4e7d-867b-47ffc98f0212)" width="200px" alt="pc">
+                                     
   ![pc](https://github.com/user-attachments/assets/73a0d9dd-2b00-4e7d-867b-47ffc98f0212)
 
   
