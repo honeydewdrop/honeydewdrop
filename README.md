@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @honeydewdrop
-- 👤 Pronouns: she/any
 
   I'm a junior computer science student. I enjoy different types of CS
   work, but I really like anything full-stack.
