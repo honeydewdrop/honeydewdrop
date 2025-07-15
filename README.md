@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honeydewdrop
 
-  I'm a junior computer science student. I enjoy different types of CS
+  I'm a senior computer science student. I enjoy different types of CS
   work, but I really like anything full-stack.
   
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,cpp,cs,react,vite,nodejs,django,npm,postman,matlab,postgresql,mongodb,git,unity,figma)](https://skillicons.dev)
